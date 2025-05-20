@@ -5,7 +5,7 @@ public class Multiples {
             if (i % 3 == 0 || i % 5 == 0) {
                 count++;
             }
-            System.out.println("Multiples of 3 or 5 below 1000: " + count);
+            System.out.println("There Multiples of 3 or 5 below 1000: " + count);
         }
     }
 }
